@@ -1,6 +1,6 @@
 # MineralMonitor
 
-**Real-time intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
+**Real-time intelligence dashboard** — AI-powered GIS aggregation, geopolitical monitoring, and mineral tracking in a unified situational awareness interface.
 
 [![GitHub stars](https://img.shields.io/github/stars/Smart-Innovations-Ghana/MineralMonitor?style=social)](https://github.com/Smart-Innovations-Ghana/MineralMonitor/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Smart-Innovations-Ghana/MineralMonitor?style=social)](https://github.com/Smart-Innovations-Ghana/MineralMonitor/network/members)
